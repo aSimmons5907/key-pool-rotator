@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="key-pool-rotator" width="840" />
-
 # LLM Key Rotator — Multi-Provider API Key Pool with Automatic 429 Rotation (One-Command Setup, Prebuilt Release)
 
 <p><strong>LLM Key Rotator — Multi-Provider API Key Pool with Automatic 429 Rotation (One-Command Setup, Prebuilt Release): Pool your free-tier LLM keys, kill the 429s. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
